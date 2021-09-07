@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Introduction
+This is a chat application built with ReactJS and using Chat Engine for backend functionality. The app has features like image support, read reciepts, the ability to create multiple rooms, and more. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sign in to any of the following users to see explore the apps and its features:
+username - password
+User1    - 1234
+User2    - 1234
+User3    - 1234
+User4    - 1234
 
 ## Available Scripts
 
